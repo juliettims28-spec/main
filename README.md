@@ -1,1 +1,13 @@
-# main
+#profile-title: darksyndicate
+#profile-update-interval: 1
+#announce: юзайте,всех обнимаем
+vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@78.159.250.214:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=qq.utiltools.ru&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#%F0%9F%8E%80l
+vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@qq.utiltools.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=qq.utiltools.ru&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#%F0%9F%87%B7%F0%9F%87%BA%E2%9C%88%EF%B8%8F%20VPN
+vless://5e0d8c3e-8e68-4fa1-89fd-85c777bd6df0@kinofi5.komediyatorg.net:443?type=tcp&headerType=none&security=tls&sni=kinofi5.komediyatorg.net&fp=firefox&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%205
+vless://5e0d8c3e-8e68-4fa1-89fd-85c777bd6df0@nlcdn3.nome-rkp.net:443?type=tcp&headerType=none&security=tls&sni=nlcdn3.nome-rkp.net&fp=firefox&allowInsecure=0#%F0%9F%87%B3%F0%9F%87%B1%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%203
+vless://5e0d8c3e-8e68-4fa1-89fd-85c777bd6df0@plcdn-7.nome-rkp.net:443?type=tcp&headerType=none&security=tls&sni=plcdn-7.nome-rkp.net&fp=firefox&allowInsecure=0#%F0%9F%87%B5%F0%9F%87%B1%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%207
+vless://5e0d8c3e-8e68-4fa1-89fd-85c777bd6df0@plcdn-15.nome-rkp.net:443?type=tcp&headerType=none&security=tls&sni=plcdn-15.nome-rkp.net&fp=firefox&allowInsecure=0#%F0%9F%87%B5%F0%9F%87%B1%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%2015
+vless://5e0d8c3e-8e68-4fa1-89fd-85c777bd6df0@aecdn-3.nome-rkp.net:443?type=tcp&headerType=none&security=tls&sni=aecdn-3.nome-rkp.net&fp=chrome&allowInsecure=0#%F0%9F%87%AA%F0%9F%87%BAAUTO%20%7C%20%D0%A1%D0%B0%D0%BC%D1%8B%D0%B5%20%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B5
+vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@78.159.250.214:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=qq.utiltools.ru&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%5B%23%D0%A0%D0%9A%D0%9F%5D
+vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@qq.utiltools.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=qq.utiltools.ru&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#%F0%9F%8C%90%20%D0%9D%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%BE%20%5B%23%D0%A0%D0%9A%D0%9F%5D
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?flow=xtls-rprx-vision&type=tcp&security=tls&sni=secure.furrycdn.net&fp=chrome&allowInsecure=0#%F0%9F%87%AA%F0%9F%87%BAO%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BE%D0%BA%20%2310
