@@ -1,7 +1,7 @@
 #profile-title: darksyndicate
 #profile-update-interval: 1
 #announce: юзайте,всех обнимаем
-vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@78.159.250.214:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=qq.utiltools.ru&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#%F0%9F%8E%80l
+hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443?fm=%257B%250A%2520%2520%2522quicParams%2522%2520:%2520%257B%250A%2520%2520%2520%2520%2522congestion%2522%2520:%2520%2522brutal%2522%250A%2520%2520%257D%250A%257D&type=hysteria&security=tls&sni=ru1.kinotorg.net&alpn=h3&allowInsecure=0&echfq=none#%F0%9F%87%B7%F0%9F%87%BA%D0%97%D0%B0%D0%B3%D0%BB%D1%83%D1%88%D0%BA%D0%B0%204vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@78.159.250.214:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=qq.utiltools.ru&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#%F0%9F%8E%80l
 vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@qq.utiltools.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=qq.utiltools.ru&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#%F0%9F%87%B7%F0%9F%87%BA%E2%9C%88%EF%B8%8F%20VPN
 vless://5e0d8c3e-8e68-4fa1-89fd-85c777bd6df0@kinofi5.komediyatorg.net:443?type=tcp&headerType=none&security=tls&sni=kinofi5.komediyatorg.net&fp=firefox&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%205
 vless://5e0d8c3e-8e68-4fa1-89fd-85c777bd6df0@nlcdn3.nome-rkp.net:443?type=tcp&headerType=none&security=tls&sni=nlcdn3.nome-rkp.net&fp=firefox&allowInsecure=0#%F0%9F%87%B3%F0%9F%87%B1%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%203
